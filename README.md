@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Przemysław Wierzbicki 👋
 
-<!--
-**PoeticLinee/PoeticLinee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Aspiring SOC Analyst | Detection Engineer
+Technical Computer Science student with a strong background in network security, log analysis, and threat detection.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Core Focus & Certifications
+- **Cisco Certified:** CCNA | CyberOps Associate
+- **SIEM & Monitoring:** Splunk, Sysmon, Wireshark, Snort/Suricata
+- **Scripting & Queries:** Python, Bash, PowerShell, SPL, KQL, Regex
+- **Frameworks:** MITRE ATT&CK, Cyber Kill Chain
+
+---
+
+### 📑 Technical Writing & Portfolio
+- ✍️ **Medium Blog:** [Read my SOC Write-ups](https://medium.com/@przemyslaw.wierzbicki)
+- 🎯 **TryHackMe:** [View THM Profile](https://tryhackme.com/p/Poeticline)
+
+---
+
+### 📂 Featured Projects
+- 🛠️ **[SOC Detection & Threat Hunting Lab](./)** *(In Development)*: End-to-end telemetry pipeline (Sysmon -> Splunk) with custom Sigma detection rules mapped to MITRE ATT&CK.
+
