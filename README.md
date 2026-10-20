@@ -19,6 +19,6 @@ Technical Computer Science student with a strong background in network security,
 
 ---
 
-### 📂 Featured Projects
-- 🛠️ **[SOC Detection & Threat Hunting Lab](./)** : End-to-end telemetry pipeline (Sysmon -> Splunk) with custom Sigma detection rules mapped to MITRE ATT&CK.
+### 📂 Projects
+- 🛠️ **[SOC Detection & Threat Hunting Lab](https://github.com/PoeticLinee/soc-detection-lab)** : End-to-end telemetry pipeline (Sysmon -> Splunk) with custom Sigma detection rules mapped to MITRE ATT&CK.
 
